@@ -102,24 +102,3 @@ Shopping_App/
 ├── db.json
 ├── package.json
 └── README.md
-
-
-🚀 Available Scripts
-Command	Description
-npm run dev	Start the React app (Vite)
-npm run build	Create production build
-npx json-server --watch db.json --port 5000	Run JSON Server backend
-
-
-📡 API Setup (JSON Server)
-Base URL:
-http://localhost:5000/blogs
-
-
-Sample Routes:
-Method	Endpoint	Description
-GET	/blogs	Get all blogs
-GET	/blogs/:id	Get single blog
-POST	/blogs	Add new blog
-PUT	/blogs/:id	Update blog
-DELETE	/blogs/:id	Delete blog

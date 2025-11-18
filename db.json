@@ -1,0 +1,29 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "My First Blog",
+      "author": "Raj Kumar",
+      "content": "This is my very first blog post."
+    },
+    {
+      "id": "2",
+      "title": "Learning React",
+      "author": "Alex",
+      "content": "React makes UI building easy!"
+    },
+    {
+      "id": "c4d5",
+      "title": "Learning JavaScript",
+      "author": "Harish Sir",
+      "content": "It is a good faculty for web development."
+    },
+    {
+      "id": "fc47",
+      "title": "Java",
+      "author": "Pawan Sir",
+      "content": "Passionate Java Trainer skilled in simplifying complex concepts through hands-on learning."
+    }
+  ],
+  "comments": []
+}
